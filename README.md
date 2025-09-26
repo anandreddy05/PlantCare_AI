@@ -89,7 +89,7 @@ MAIL_USERNAME=your-email@gmail.com
 MAIL_PASSWORD=your-app-password
 MAIL_DEFAULT_SENDER=your-email@gmail.com
 
-# Weather API (optional)
+# Weather API
 WEATHER_API_KEY=your_openweather_api_key_here
 ```
 
